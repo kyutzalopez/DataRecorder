@@ -1,8 +1,3 @@
-/*  Kyutza Lopez
-    COP3223C
-    Assignment 14 - Structures
-    4/13/23                     */
-
 #include <stdio.h>
 #include <string.h>
 
